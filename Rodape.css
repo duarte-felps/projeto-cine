@@ -1,0 +1,111 @@
+#FIMfim{
+    bottom: 0px;
+    width: 100%;
+    	
+    background-image:url('https://i.pinimg.com/originals/c1/eb/ef/c1ebef259b87fb054b00c996bed6edc6.jpg');
+    color: black;
+    padding-bottom: 20px;
+    margin-left: -10px;
+    margin-top: -15px;
+    height: 200px;
+  position: fixed;
+    align-items: center;
+    justify-content: center;  
+    display: flex;
+    padding-top: 30px;  
+    }
+    #col1{
+        min-width: 50px;	
+        padding-top: 0px;	
+        top: 0px;
+        margin-top: -180px;
+        width: 50px;
+        padding-left: 100px;
+        padding-right: 75px;
+        height: 55px;
+        display: inline-block;
+        text-align: center;
+        line-height: 55px;
+        font-family: 'Times New Roman';
+        font-size: 20px;
+        position: relative;   
+    }
+    #col2{
+    min-width: 250px;	
+    padding-top: 0px;	
+    top: 0px;
+    margin-top: -180px;
+    width: 50px;
+    padding-left: 100px;
+    padding-right: 75px;
+    height: 55px;
+    display: inline-block;
+    text-align: center;
+    line-height: 55px;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    position: relative;   
+    }
+    #col3{
+        min-width: 250px;	
+    padding-top: 0px;	
+    top: 0px;
+    margin-top: -180px;
+    width: 50px;
+    padding-left: 0px;
+    padding-right: 75px;
+    height: 55px;
+    display: inline-block;
+    text-align: center;
+    line-height: 55px;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    position: relative;   
+     
+    }
+    #col4{
+        min-width: 100px;	
+        padding-top: 0px;	
+        top: 0px;
+        margin-top: -180px;
+        width: 50px;
+        padding-left: 0px;
+        padding-right: 75px;
+        height: 55px;
+        display: inline-block;
+        text-align: center;
+        line-height: 55px;
+        font-family: 'Times New Roman';
+        font-size: 20px;
+        position: relative;    
+    }
+    .rdp:link {
+    text-decoration: none;
+    color:white;	
+    }
+    .rdp:visited {
+    text-decoration: none;
+    color: white;
+    }
+   
+    img{
+        width:200px;
+        height:150px;
+        text-align: center;
+    }
+    h3{
+        min-width: 250px;	
+        padding-top: 0px;	
+        top: 0px;
+        margin-top: -180px;
+        width: 150px;
+        padding-left: 0px;
+        padding-right: 75px;
+        height: 55px;
+        display: inline-block;
+        text-align: center;
+        line-height: 55px;
+        font-family: 'Times New Roman';
+        font-size: 20px;
+        position: relative;   
+    }
